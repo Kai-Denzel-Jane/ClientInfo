@@ -1,0 +1,4 @@
+name: ClientInfo
+version: '1.0-SNAPSHOT'
+main: net.kaijane.clientInfo.ClientInfo
+api-version: '1.21'
